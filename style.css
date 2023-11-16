@@ -1,0 +1,68 @@
+#logo{
+    width: 100px;
+    height: 100px;
+    
+}
+#h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: size 45px;
+    letter-spacing: 8px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    max-width: 40%;
+    background-color: rgb(88, 238, 213);
+    border-radius: 5px;
+    margin-top: 80px;
+    border-width: 20px;
+
+    
+}
+body{
+   
+    background-color: peachpuff;
+}
+#log_div{
+    width: 50%;
+    background-color: aliceblue;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    color: rgb(27, 29, 28);
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+#output{
+    width: 40%;
+    background-color: beige;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: solid;
+    border-radius: 40px;
+    color: rgb(27, 29, 28);
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+}
+hr{
+    height: 2px;
+    background-color: black;
+}
+#senddiv{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-color: brown;
+    padding: 10px;
+    
+}
+#message{
+    width: 80%;
+
+}
+#send{
+    width: 10%;
+}
